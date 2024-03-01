@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+
+  .flag {
+    width: 500px;
+    height: 200px;
+  }
+  .stripe{
+    height: 50%;
+    width: 100%;
+    position: relative;
+  }
+
+
+  .black {
+    background-color: #0f0f0f;
+  }
+
+  .yellow {
+    background-color: #ecf00e;
+  }
+  .red {
+    background-color: #f30404;
+  }
+
+  
+  
